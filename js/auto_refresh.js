@@ -1,0 +1,1 @@
+function autoRefresh_div(){$("#user_comments").load("getComment.php")}setInterval("autoRefresh_div()",3e4);
