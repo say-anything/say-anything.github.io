@@ -1,1 +1,0 @@
-$(function(){$("#a_form_area").keypress(function(h){return 60==h.which||62==h.which||123==h.which||125==h.which||91==h.which||93==h.which||41==h.which||40==h.which||59==h.which?!1:void 0})});
